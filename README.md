@@ -1,5 +1,4 @@
-## Hi there 👋
-
+##Tecnologo en Analisis y desarrollo de Software
 <!--
 **CrGeR200423/CrGeR200423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
